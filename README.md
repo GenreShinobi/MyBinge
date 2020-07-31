@@ -1,6 +1,8 @@
 ## MYBINGE
 This project was started in July of 2020 as part of "9 Projects you can do to become a Frontend Master in 2020". 
 
+The link to the live site: https://aitml-95bbf.web.app/
+
 The original ask: 
 - [x] Use React with Hooks
 - [x] Create the App with create-react-app
