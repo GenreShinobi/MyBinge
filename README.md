@@ -19,3 +19,4 @@ The project was "completed" in roughly 4 days. But it's not over. There's still 
 - [ ] Allow the user to Rate movies (using something more creative than just 1-5, stars, or thumbs up)
 - [ ] Use the data to make connections and recommendations through something other than genre and popularity 
 - [ ] Add a Second API of some kind. Maybe there's another movie DB API out there that provides facts? 
+- [ ] Update this README to more accurately reflect the entire project and link to the other parts
